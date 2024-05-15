@@ -1,0 +1,36 @@
+﻿@model IEnumerable<LabW4.Models.Voucher>
+
+@{
+    ViewData["Title"] = "GroupB";
+}
+
+<h1>Index</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Country
+            </th>
+            <th>
+                Cost
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Country)
+                </td>
+           
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cost)
+                </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>

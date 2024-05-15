@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|d:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\labw5\\controllers\\voucherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:controllers\\voucherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\controllers\\universitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:controllers\\universitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\controllers\\tradeunionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:controllers\\tradeunionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\models\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:models\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\models\\tradeunion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:models\\tradeunion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\models\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:models\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\views\\vouchers\\groupb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:views\\vouchers\\groupb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\views\\vouchers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:views\\vouchers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\data\\labw4context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:data\\labw4context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\migrations\\labw4contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:migrations\\labw4contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\views\\universities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:views\\universities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\views\\universities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:views\\universities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\views\\universities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:views\\universities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\labw4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:labw4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Valeri\\Desktop\\TradeUnion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Valeri\\Desktop\\University.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW4\\Migrations\\20240409215623_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW4\\Controllers\\CController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW4\\Models\\C.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\migrations\\20240414213905_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003ABB39-A9DF-42D3-AA3A-6F74BA801638}|LabW4.csproj|solutionrelative:migrations\\20240414213905_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAAAD0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:02:38.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "University.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Models\\University.cs",
+              "RelativeDocumentMoniker": "Models\\University.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Models\\University.cs",
+              "RelativeToolTip": "Models\\University.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:01:15.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TradeUnionsController.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Controllers\\TradeUnionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TradeUnionsController.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Controllers\\TradeUnionsController.cs",
+              "RelativeToolTip": "Controllers\\TradeUnionsController.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAABgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:41:06.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversitiesController.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Controllers\\UniversitiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UniversitiesController.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Controllers\\UniversitiesController.cs",
+              "RelativeToolTip": "Controllers\\UniversitiesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:18:06.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VouchersController.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Controllers\\VouchersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VouchersController.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Controllers\\VouchersController.cs",
+              "RelativeToolTip": "Controllers\\VouchersController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wCsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:39:53.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TradeUnion.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Models\\TradeUnion.cs",
+              "RelativeDocumentMoniker": "Models\\TradeUnion.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Models\\TradeUnion.cs",
+              "RelativeToolTip": "Models\\TradeUnion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:28:13.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Models\\Voucher.cs",
+              "RelativeDocumentMoniker": "Models\\Voucher.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Models\\Voucher.cs",
+              "RelativeToolTip": "Models\\Voucher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:16:11.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Create.cshtml",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "Views\\Students\\Create.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T23:17:18.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA0wCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:40:49.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAqwIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T23:46:58.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupB.cshtml",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Vouchers\\GroupB.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vouchers\\GroupB.cshtml",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Vouchers\\GroupB.cshtml",
+              "RelativeToolTip": "Views\\Vouchers\\GroupB.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T14:09:19.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Vouchers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vouchers\\Index.cshtml",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Vouchers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Vouchers\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T14:22:44.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LabW4Context.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Data\\LabW4Context.cs",
+              "RelativeDocumentMoniker": "Data\\LabW4Context.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Data\\LabW4Context.cs",
+              "RelativeToolTip": "Data\\LabW4Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:29:07.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LabW4ContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Migrations\\LabW4ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\LabW4ContextModelSnapshot.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Migrations\\LabW4ContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\LabW4ContextModelSnapshot.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA+wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:13:59.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Universities\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Universities\\Index.cshtml",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Universities\\Index.cshtml",
+              "RelativeToolTip": "Views\\Universities\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T23:24:18.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Universities\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Universities\\Create.cshtml",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Universities\\Create.cshtml",
+              "RelativeToolTip": "Views\\Universities\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T23:18:41.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Universities\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Universities\\Details.cshtml",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Universities\\Details.cshtml",
+              "RelativeToolTip": "Views\\Universities\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T23:24:14.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Delete.cshtml",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Students\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Students\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T23:17:17.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T21:12:19.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LabW4.csproj",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\LabW4.csproj",
+              "RelativeDocumentMoniker": "LabW4.csproj",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\LabW4.csproj",
+              "RelativeToolTip": "LabW4.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T20:52:09.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:54:08.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240414213905_Init.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Migrations\\20240414213905_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240414213905_Init.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Migrations\\20240414213905_Init.cs",
+              "RelativeToolTip": "Migrations\\20240414213905_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:39:05.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:14:25.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "University.cs",
+              "DocumentMoniker": "C:\\Users\\Valeri\\Desktop\\University.cs",
+              "ToolTip": "C:\\Users\\Valeri\\Desktop\\University.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:00:38.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TradeUnion.cs",
+              "DocumentMoniker": "C:\\Users\\Valeri\\Desktop\\TradeUnion.cs",
+              "ToolTip": "C:\\Users\\Valeri\\Desktop\\TradeUnion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:00:29.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-13T19:11:13.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW5\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAABhwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-13T19:11:05.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240409215623_Init.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW4\\Migrations\\20240409215623_Init.cs",
+              "RelativeDocumentMoniker": "..\\LabW4\\Migrations\\20240409215623_Init.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW4\\Migrations\\20240409215623_Init.cs",
+              "RelativeToolTip": "..\\LabW4\\Migrations\\20240409215623_Init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T21:56:23.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CController.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW4\\Controllers\\CController.cs",
+              "RelativeDocumentMoniker": "..\\LabW4\\Controllers\\CController.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW4\\Controllers\\CController.cs",
+              "RelativeToolTip": "..\\LabW4\\Controllers\\CController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:23:03.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "C.cs",
+              "DocumentMoniker": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW4\\Models\\C.cs",
+              "RelativeDocumentMoniker": "..\\LabW4\\Models\\C.cs",
+              "ToolTip": "D:\\\u0445\u043D\u0443\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u043E\u043E\u043F\\code\\LabW4\\Models\\C.cs",
+              "RelativeToolTip": "..\\LabW4\\Models\\C.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:21:08.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
